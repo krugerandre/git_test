@@ -1,0 +1,17 @@
+[33mcommit 069c027a7e5c48d7f202bdd00d26c695cb6487b7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: krugerandre <kruger.andre123@gmail.com>
+Date:   Fri May 24 12:12:07 2024 +0200
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 570fbaf667e7f7c2d0c2fdd3809d3b82dd55b06f[m
+Author: krugerandre <kruger.andre123@gmail.com>
+Date:   Fri May 24 11:39:27 2024 +0200
+
+    Add hello_world.txt
+
+[33mcommit 15afda4865f31af0bb7a1df53054db7198c02868[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: krugerandre <140684864+krugerandre@users.noreply.github.com>
+Date:   Fri May 24 11:04:07 2024 +0200
+
+    Initial commit
